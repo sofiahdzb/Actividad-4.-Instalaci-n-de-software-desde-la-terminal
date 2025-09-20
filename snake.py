@@ -9,7 +9,15 @@ Exercises
 """
 
 from random import randrange
-from turtle import *
+from turtle import update
+from turtle import clear
+from turtle import ontimer
+from turtle import setup
+from turtle import hideturtle
+from turtle import tracer
+from turtle import listen
+from turtle import onkey
+from turtle import done
 
 from freegames import square, vector
 
